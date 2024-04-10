@@ -18,7 +18,7 @@
  
  * get password from  ``` aws ecr get-login-password --region ap-southeast-1 ``` and username ``` AWS ```
 
- ![System » Global credentials (unrestricted)  Jenkins  and 51 more pages - Profile 1 - Microsoft​ Edge 07-05-2023 19_49_23](https://github.com/Kubernetes-on-AWS-EKS/assets/96679708/31bce19f-fe80-4987-aa77-b6f89eaa4932)
+ ![System » Global credentials (unrestricted)  Jenkins  and 51 more pages - Profile 1 - Microsoft​ Edge 07-05-2023 19_49_23](https://github.com/Rajib-Mardi/Kubernetes-on-AWS-EKS/assets/96679708/31bce19f-fe80-4987-aa77-b6f89eaa4932)
 
 
 #### Created Secret for AWS ECR Registry in EKS cluster and adjusted reference in Deployment file
