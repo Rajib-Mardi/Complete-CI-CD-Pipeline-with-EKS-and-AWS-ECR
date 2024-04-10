@@ -45,7 +45,8 @@
 
 * As we can see, the pipeline has successfully been executed.
 
-![complete-pipeline-ecr-eks  java-maven-app   Jenkins  and 51 more pages - Profile 1 - Microsoft​ Edge 07-05-2023 20_18_31](https://github.com/Rajib-Mardi/Kubernetes-on-AWS-EKS/assets/96679708/00fbf61d-f53e-4811-9a4d-159266190012)
+![241126908-00fbf61d-f53e-4811-9a4d-159266190012](https://github.com/Rajib-Mardi/Complete-CI-CD-Pipeline-with-EKS-and-AWS-ECR/assets/96679708/9895ce5c-8ad0-4cc3-99fc-10f6cd2dd44e)
+
 
 * In our ECR repository, we can see a new image with increment version 1.1.3 appear here.
 
