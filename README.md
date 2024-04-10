@@ -50,7 +50,7 @@
 
 * In our ECR repository, we can see a new image with increment version 1.1.3 appear here.
 
-![Elastic Container Registry - Images - Google Chrome 07-05-2023 20_19_14](https://github.com/Rajib-Mardi/Kubernetes-on-AWS-EKS/assets/96679708/e09fa50d-6604-4e18-8ab8-ec8d7816fd3a)
+![241126964-e09fa50d-6604-4e18-8ab8-ec8d7816fd3a](https://github.com/Rajib-Mardi/Complete-CI-CD-Pipeline-with-EKS-and-AWS-ECR/assets/96679708/2d963870-834f-43e4-a446-403b0018bb7b)
 
 
 *  We can see that pods and services are running.
