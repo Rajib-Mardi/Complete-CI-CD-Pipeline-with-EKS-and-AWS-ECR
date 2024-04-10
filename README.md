@@ -58,7 +58,8 @@
 ![241127350-557323b5-1def-4fc0-8425-5416bc6d967b](https://github.com/Rajib-Mardi/Complete-CI-CD-Pipeline-with-EKS-and-AWS-ECR/assets/96679708/cb0413c3-e95c-497c-966e-f6cd84778c5b)
 
 
-![MINGW64__c_Users_Rajib 07-05-2023 20_26_16](https://github.com/Rajib-Mardi/Kubernetes-on-AWS-EKS/assets/96679708/03362771-01e0-4b91-9150-15feba4c5c9a)
+![241127365-03362771-01e0-4b91-9150-15feba4c5c9a](https://github.com/Rajib-Mardi/Complete-CI-CD-Pipeline-with-EKS-and-AWS-ECR/assets/96679708/15cbc34f-4e75-484f-8178-e563d9e341b9)
+
 
 
 
