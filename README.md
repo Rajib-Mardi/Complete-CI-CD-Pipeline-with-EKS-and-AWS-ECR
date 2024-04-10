@@ -27,8 +27,7 @@
 
 
 
-![MINGW64__c_Users_Rajib 07-05-2023 19_58_22 - Copy](https://github.com/Rajib-Mardi/Kubernetes-on-AWS-EKS/assets/96679708/5144587a-7195-4a52-a403-42413aae51cc)
-
+![240643440-5144587a-7195-4a52-a403-42413aae51cc](https://github.com/Rajib-Mardi/Complete-CI-CD-Pipeline-with-EKS-and-AWS-ECR/assets/96679708/1b706499-b813-457a-87cf-a2edc619031c)
 
 #### Adjust Jenkinsfile to build and push Docker Image to AWS ECR
 
