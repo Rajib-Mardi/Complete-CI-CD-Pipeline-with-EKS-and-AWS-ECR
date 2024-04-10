@@ -55,7 +55,8 @@
 
 *  We can see that pods and services are running.
 
-![MINGW64__c_Users_Rajib 07-05-2023 20_19_31](https://github.com/Rajib-Mardi/Kubernetes-on-AWS-EKS/assets/96679708/557323b5-1def-4fc0-8425-5416bc6d967b)
+![241127350-557323b5-1def-4fc0-8425-5416bc6d967b](https://github.com/Rajib-Mardi/Complete-CI-CD-Pipeline-with-EKS-and-AWS-ECR/assets/96679708/cb0413c3-e95c-497c-966e-f6cd84778c5b)
+
 
 ![MINGW64__c_Users_Rajib 07-05-2023 20_26_16](https://github.com/Rajib-Mardi/Kubernetes-on-AWS-EKS/assets/96679708/03362771-01e0-4b91-9150-15feba4c5c9a)
 
