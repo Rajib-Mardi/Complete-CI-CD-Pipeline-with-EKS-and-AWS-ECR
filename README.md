@@ -9,7 +9,7 @@
   ### Project Description: 
   ####  Create private ECR Repository
 
-  ![Elastic Container Registry - Create Repository - Google Chrome 07-05-2023 19_39_45](https://github.com/Rajib-Mardi/Kubernetes-on-AWS-EKS/assets/96679708/77fca88c-8b6d-4350-8c8c-608515a5f764)
+![240625046-77fca88c-8b6d-4350-8c8c-608515a5f764](https://github.com/Rajib-Mardi/Complete-CI-CD-Pipeline-with-EKS-and-AWS-ECR/assets/96679708/6cdd5b2f-1496-42f4-a63e-6573408c59b5)
 
 
 
