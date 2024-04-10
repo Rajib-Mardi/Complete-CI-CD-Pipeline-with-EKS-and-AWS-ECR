@@ -2,11 +2,12 @@
 ------------------------------------------------------------------------------
   
   
-  ## Demo Project: 
+  ### Demo Project: 
   * Complete CI/CD Pipeline with EKS and AWS ECR 
-  ## Technologiesused: Kubernetes, Jenkins, AWS EKS, AWS ECR, Java, Maven, Linux, Docker, Git 
-  ## Project Description: 
-  ### Create private ECR Repository
+  ### Technologiesused: 
+  * Kubernetes, Jenkins, AWS EKS, AWS ECR, Java, Maven, Linux, Docker, Git 
+  ### Project Description: 
+  ####  Create private ECR Repository
 
   ![Elastic Container Registry - Create Repository - Google Chrome 07-05-2023 19_39_45](https://github.com/Rajib-Mardi/Kubernetes-on-AWS-EKS/assets/96679708/77fca88c-8b6d-4350-8c8c-608515a5f764)
 
@@ -20,7 +21,7 @@
  ![System » Global credentials (unrestricted)  Jenkins  and 51 more pages - Profile 1 - Microsoft​ Edge 07-05-2023 19_49_23](https://github.com/Rajib-Mardi/Kubernetes-on-AWS-EKS/assets/96679708/31bce19f-fe80-4987-aa77-b6f89eaa4932)
 
 
-### Created Secret for AWS ECR Registry in EKS cluster and adjusted reference in Deployment file
+#### Created Secret for AWS ECR Registry in EKS cluster and adjusted reference in Deployment file
  * Locally, on your computer: Create a docker registry secret for ECR
 
 ![MINGW64__c_Users_Rajib 07-05-2023 19_58_22](https://github.com/Rajib-Mardi/Kubernetes-on-AWS-EKS/assets/96679708/9fce5663-e994-4407-9159-8f77dd7518fe)
@@ -29,11 +30,11 @@
 ![MINGW64__c_Users_Rajib 07-05-2023 19_58_22 - Copy](https://github.com/Rajib-Mardi/Kubernetes-on-AWS-EKS/assets/96679708/5144587a-7195-4a52-a403-42413aae51cc)
 
 
-### Adjust Jenkinsfile to build and push Docker Image to AWS ECR
+#### Adjust Jenkinsfile to build and push Docker Image to AWS ECR
 
 * Modify the Jenkinsfile to reflect the changes. In the "build and push image" stage, change the credentials ID to ```ecr-credentials```. Set the repository URL as an environment variable named ```DOCKER_REPO``` and use it throughout the pipeline. Additionally, update the image name in the ```deployment.yaml file```. Ensure to set the ECR repository ```ECR_REPO_URL``` as an environment variable and pass it as a parameter. 
 
-### So the complete CI/CD project we build has the following configuration:
+#### So the complete CI/CD project we build has the following configuration:
 * a.CI step:Increment version
 * b.CI step: Build artifact for Java Maven application 
 * c.CI step: Build and push Docker image to AWS ECR 
@@ -41,7 +42,7 @@
 * e.CD step: Commit the version update
 
 
-### Execute Jenkins Pipeline
+#### Execute Jenkins Pipeline
 
 * As we can see, the pipeline has successfully been executed.
 
