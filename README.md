@@ -23,7 +23,8 @@
 #### Created Secret for AWS ECR Registry in EKS cluster and adjusted reference in Deployment file
  * Locally, on your computer: Create a docker registry secret for ECR
 
-![MINGW64__c_Users_Rajib 07-05-2023 19_58_22](https://github.com/Rajib-Mardi/Kubernetes-on-AWS-EKS/assets/96679708/9fce5663-e994-4407-9159-8f77dd7518fe)
+![240643394-9fce5663-e994-4407-9159-8f77dd7518fe](https://github.com/Rajib-Mardi/Complete-CI-CD-Pipeline-with-EKS-and-AWS-ECR/assets/96679708/de015aa1-62f1-4bc8-b7d0-0aac5d1f0531)
+
 
 
 ![MINGW64__c_Users_Rajib 07-05-2023 19_58_22 - Copy](https://github.com/Rajib-Mardi/Kubernetes-on-AWS-EKS/assets/96679708/5144587a-7195-4a52-a403-42413aae51cc)
