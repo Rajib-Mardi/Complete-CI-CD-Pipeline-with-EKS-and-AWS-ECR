@@ -6,6 +6,8 @@
   ### Project Description: 
   ####  Create private ECR Repository
 
+  <img src="https://github.com/Rajib-Mardi/Complete-CI-CD-Pipeline-with-EKS-and-AWS-ECR/assets/96679708/6cdd5b2f-1496-42f4-a63e-6573408c59b5" width="800">
+
 ![240625046-77fca88c-8b6d-4350-8c8c-608515a5f764](https://github.com/Rajib-Mardi/Complete-CI-CD-Pipeline-with-EKS-and-AWS-ECR/assets/96679708/6cdd5b2f-1496-42f4-a63e-6573408c59b5)
 
 
