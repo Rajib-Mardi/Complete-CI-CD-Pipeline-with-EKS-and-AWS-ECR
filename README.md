@@ -1,7 +1,4 @@
-
-------------------------------------------------------------------------------
-  
-  
+ 
   ### Demo Project: 
   * Complete CI/CD Pipeline with EKS and AWS ECR 
   ### Technologiesused: 
@@ -31,7 +28,7 @@
 
 #### Adjust Jenkinsfile to build and push Docker Image to AWS ECR
 
-* Modify the Jenkinsfile to reflect the changes. In the "build and push image" stage, change the credentials ID to ```ecr-credentials```. Set the repository URL as an environment variable named ```DOCKER_REPO``` and use it throughout the pipeline. Additionally, update the image name in the ```deployment.yaml file```. Ensure to set the ECR repository ```ECR_REPO_URL``` as an environment variable and pass it as a parameter. 
+* Modify the Jenkinsfile to reflect the changes. In the ```build and push image``` stage, change the credentials ID to ```ecr-credentials```. Set the repository URL as an environment variable named ```DOCKER_REPO``` and use it throughout the pipeline. Additionally, update the image name in the ```deployment.yaml file```. Ensure to set the ECR repository ```ECR_REPO_URL``` as an environment variable and pass it as a parameter. 
 
 #### So the complete CI/CD project we build has the following configuration:
 * a.CI step:Increment version
